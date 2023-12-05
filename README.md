@@ -19,7 +19,8 @@
  
    Welcome to the Puzzle Solver project! This software allows you to generate and solve Sudoku puzzles of varying difficulty levels. Whether you're a Sudoku enthusiast or a beginner, this solver provides a convenient way to play and challenge yourself.
    
-	
+
+ 
 2. Getting Started:
    
    System Requirements:
