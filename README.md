@@ -1,6 +1,6 @@
 Group_18
 
-                                SMARTGRID PUZZLE SOLVER USER MANUAL
+                                		SMARTGRID PUZZLE SOLVER USER MANUAL
 #Table of Contents:
       •	Introduction
       •	Getting Started
