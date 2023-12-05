@@ -28,8 +28,8 @@ Group_18
 	          	Navigate to the project directory in the terminal.
 	      **Install required dependencies using the following command:**
 	          **•	pip install numpy matplotlib**
-	          or**
-	          •	pip3 install numpy matplotlib**
+	          or
+	   **	    •	pip3 install numpy matplotlib**
 
 3. Usage Instructions:
 After successful installation, Let’s run the python file using the following command
