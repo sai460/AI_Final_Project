@@ -42,7 +42,7 @@
 		After choosing the difficulty level, the program generates a Sudoku puzzle for you.
 		The puzzle is displayed on the console.
 		The program will display the solved puzzle along with performance metrics, including time taken and backtracking information.
-  			![image](https://github.com/sai460/AI_Final_Project/assets/52188773/d3ece236-60a7-4335-a2e9-e88c3f1f215b)
+  ![image](https://github.com/sai460/AI_Final_Project/assets/52188773/d3ece236-60a7-4335-a2e9-e88c3f1f215b)
      			![image](https://github.com/sai460/AI_Final_Project/assets/52188773/c80733d5-8ca9-414d-b842-5c3e0d290349)
 		Performance Metrics:
   			![image](https://github.com/sai460/AI_Final_Project/assets/52188773/693d1e53-6e04-4160-9b21-06afb9f4e516)
