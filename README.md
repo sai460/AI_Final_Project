@@ -1,4 +1,5 @@
-                                			SMARTGRID PUZZLE SOLVER USER MANUAL
+
+				   SMARTGRID PUZZLE SOLVER USER MANUAL
 Table of Contents:
       •	Introduction
       •	Getting Started
@@ -13,7 +14,7 @@ Table of Contents:
           o	Performance Metrics
       •	Trouble shooting
       •	Contact and Support
-
+      
 1. Introduction:
       		Welcome to the Puzzle Solver project! This software allows you to generate and solve Sudoku puzzles of varying difficulty levels. Whether you're a Sudoku enthusiast or a beginner, this solver provides a convenient way to play and challenge yourself.
 	
@@ -59,11 +60,12 @@ Table of Contents:
 		
 		Performance Metrics
 		The solver provides performance metrics such as time taken, number of recursive calls and number of backtracks.
+
 		
-5. Troubleshooting:
+6. Troubleshooting:
 		If you encounter issues, ensure that you have Python installed and the required dependencies are installed using pip.
 		Check for any error messages in the terminal for guidance.
 	
-6. Contact and Support:
+7. Contact and Support:
 		If you have any queries, feel free to contact us via email saimohan.yedla@gmail.com
 
