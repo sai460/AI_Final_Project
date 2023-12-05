@@ -251,7 +251,7 @@ if __name__ == "__main__":
     solver_names = ['Backtracking', 'Optimized Backtracking']
 
     try:
-        n = int(input("Enter the size of the Sudoku grid (e.g., 4 for 4x4, 9 for 9x9, etc.): "))
+        n = int(input("Enter the size of the Sudoku grid (e.g., 4 for 4x4, 9 for 9x9): "))
         if n <= 0 or (int(n**0.5))**2 != n:
             print("Please enter a positive square number.")
             sys.exit()
