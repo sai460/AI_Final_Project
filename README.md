@@ -18,9 +18,10 @@
 1. Introduction:
  
    Welcome to the Puzzle Solver project! This software allows you to generate and solve Sudoku puzzles of varying difficulty levels. Whether you're a Sudoku enthusiast or a beginner, this solver provides a convenient way to play and challenge yourself.
+   
 	
 2. Getting Started:
-      System Requirements:
+       System Requirements:
 	  	Python 3.x installed on your system.
 	  	Basic understanding of the command line.
       Installation:
@@ -31,7 +32,7 @@
 	  or
 	  •	pip3 install numpy matplotlib
 
-4. Usage Instructions:
+3. Usage Instructions:
 		After successful installation, Let’s run the python file using the following command
 			python puzzle_solver_final.py			or
 			python3 puzzle_solver_final.py
@@ -54,7 +55,7 @@
  	**Performance Metrics:**
 	  			![image](https://github.com/sai460/AI_Final_Project/assets/52188773/693d1e53-6e04-4160-9b21-06afb9f4e516)
 
-5. Advanced Features:
+4. Advanced Features:
 		Optimized Backtracking
 		The solver utilizes an optimized backtracking algorithm to efficiently solve Sudoku puzzles.
 		This optimization reduces the number of recursive calls and backtracks, improving overall performance.
@@ -63,10 +64,10 @@
 		The solver provides performance metrics such as time taken, number of recursive calls and number of backtracks.
 
 		
-6. Troubleshooting:
+5. Troubleshooting:
 		If you encounter issues, ensure that you have Python installed and the required dependencies are installed using pip.
 		Check for any error messages in the terminal for guidance.
 	
-7. Contact and Support:
+6. Contact and Support:
 		If you have any queries, feel free to contact us via email saimohan.yedla@gmail.com
 
