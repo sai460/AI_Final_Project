@@ -49,10 +49,10 @@ Table of Contents:
 	
 	
  
- **Performance Metrics:**
+ 	**Performance Metrics:**
 	  			![image](https://github.com/sai460/AI_Final_Project/assets/52188773/693d1e53-6e04-4160-9b21-06afb9f4e516)
 
-4. Advanced Features:
+	4. Advanced Features:
 			Optimized Backtracking
 		The solver utilizes an optimized backtracking algorithm to efficiently solve Sudoku puzzles.
 		This optimization reduces the number of recursive calls and backtracks, improving overall performance.
@@ -60,10 +60,10 @@ Table of Contents:
 			Performance Metrics
 		The solver provides performance metrics such as time taken, number of recursive calls and number of backtracks.
 		
-    5. Troubleshooting:
+    	5. Troubleshooting:
 		If you encounter issues, ensure that you have Python installed and the required dependencies are installed using pip.
 		Check for any error messages in the terminal for guidance.
 	
-    6. Contact and Support:
+    	6. Contact and Support:
 		If you have any queries, feel free to contact us via email saimohan.yedla@gmail.com
 
