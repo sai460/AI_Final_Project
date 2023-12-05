@@ -1,7 +1,7 @@
 Group_18
 
                                 			SMARTGRID PUZZLE SOLVER USER MANUAL
-	Table of Contents:
+	**Table of Contents:**
       •	Introduction
       •	Getting Started
           o	System Requirements
@@ -16,20 +16,20 @@ Group_18
       •	Trouble shooting
       •	Contact and Support
 
-	#1. Introduction:
+	**1. Introduction:**
       		Welcome to the Puzzle Solver project! This software allows you to generate and solve Sudoku puzzles of varying difficulty levels. Whether you're a Sudoku enthusiast or a beginner, this solver provides a convenient way to play and challenge yourself.
 	
- 	#2. Getting Started:
-      ##System Requirements:
-          	Python 3.x installed on your system.
-          	Basic understanding of the command line.
-      ##Installation:
-          	Clone or download the project repository from https://github.com/sai460/AI_Final_Project.git .
-          	Navigate to the project directory in the terminal.
-      ##Install required dependencies using the following command:
-          #•	pip install numpy matplotlib
-          or
-          #•	pip3 install numpy matplotlib
+ 	**2. Getting Started:**
+	      **System Requirements:**
+	          	Python 3.x installed on your system.
+	          	Basic understanding of the command line.
+	      **Installation:**
+	          	Clone or download the project repository from https://github.com/sai460/AI_Final_Project.git .
+	          	Navigate to the project directory in the terminal.
+	      **Install required dependencies using the following command:**
+	          **•	pip install numpy matplotlib**
+	          or**
+	          •	pip3 install numpy matplotlib**
 
 3. Usage Instructions:
 After successful installation, Let’s run the python file using the following command
