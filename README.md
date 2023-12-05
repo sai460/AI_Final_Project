@@ -1,7 +1,6 @@
 
 				   	SMARTGRID PUZZLE SOLVER USER MANUAL
-	
- Table of Contents:
+	Table of Contents:
       •	Introduction
       •	Getting Started
           o	System Requirements
