@@ -56,13 +56,13 @@
 		![image](https://github.com/sai460/AI_Final_Project/assets/52188773/2a04d0fc-84e3-457f-9231-dac40309e94c)
 
 
-	After choosing the difficulty level, the program generates a Sudoku puzzle for you.
-
-
-	The puzzle is displayed on the console.
-
-
-	The program will display the solved puzzle along with performance metrics, including time taken and backtracking information.
+		After choosing the difficulty level, the program generates a Sudoku puzzle for you.
+	
+	
+		The puzzle is displayed on the console.
+	
+	
+		The program will display the solved puzzle along with performance metrics, including time taken and backtracking information.
 
 
 
@@ -76,7 +76,11 @@
    Performance Metrics:
 	  			![image](https://github.com/sai460/AI_Final_Project/assets/52188773/693d1e53-6e04-4160-9b21-06afb9f4e516)
 
-5. Advanced Features:
+
+
+
+4. Advanced Features:
+   
    
 			Optimized Backtracking
 			The solver utilizes an optimized backtracking algorithm to efficiently solve Sudoku puzzles.
@@ -85,13 +89,15 @@
 			Performance Metrics
 			The solver provides performance metrics such as time taken, number of recursive calls and number of backtracks.
 
+
 		
-7. Troubleshooting:
+5. Troubleshooting:
    
 		If you encounter issues, ensure that you have Python installed and the required dependencies are installed using pip.
 			Check for any error messages in the terminal for guidance.
-	
-9. Contact and Support:
+
+ 
+6. Contact and Support:
     
 		If you have any queries, feel free to contact us via email saimohan.yedla@gmail.com
 
