@@ -47,10 +47,12 @@ Table of Contents:
 
 	![image](https://github.com/sai460/AI_Final_Project/assets/52188773/c80733d5-8ca9-414d-b842-5c3e0d290349)
 	
-	Performance Metrics:
+	
+ 
+ **Performance Metrics:**
 	  			![image](https://github.com/sai460/AI_Final_Project/assets/52188773/693d1e53-6e04-4160-9b21-06afb9f4e516)
 
-    4. Advanced Features:
+4. Advanced Features:
 			Optimized Backtracking
 		The solver utilizes an optimized backtracking algorithm to efficiently solve Sudoku puzzles.
 		This optimization reduces the number of recursive calls and backtracks, improving overall performance.
