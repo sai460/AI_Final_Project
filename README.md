@@ -33,7 +33,7 @@
 		After successful installation, Let’s run the python file using the following command
 			python puzzle_solver_final.py			or
 			python3 puzzle_solver_final.py
-		 	![image](https://github.com/sai460/AI_Final_Project/assets/52188773/41c3f949-61b5-4bd2-8cc4-756c75ff95f2)
+![image](https://github.com/sai460/AI_Final_Project/assets/52188773/41c3f949-61b5-4bd2-8cc4-756c75ff95f2)
 
 		User will be prompted to enter the grid size i.e., either 4 or 9 as per standard of sudoku game. (Sudoku Board should contain a Square number nxn grid).
 		After entering the grid size (limited to 4 or 9), user will be asked to choose the level of difficulty like below:
