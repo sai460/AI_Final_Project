@@ -37,7 +37,7 @@
       Install required dependencies using the following command:
    
 	  			•	pip install numpy matplotlib
-	  or
+	 	 or	
 	  			•	pip3 install numpy matplotlib
 
 4. Usage Instructions:
