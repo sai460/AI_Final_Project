@@ -36,8 +36,8 @@
 				  	Navigate to the project directory in the terminal.
       Install required dependencies using the following command:
    
-	  			•	pip install numpy matplotlib*
-	  					or
+	  			•	pip install numpy matplotlib
+	  or
 	  			•	pip3 install numpy matplotlib
 
 4. Usage Instructions:
