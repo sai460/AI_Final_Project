@@ -22,14 +22,17 @@
 	
 2. Getting Started:
    
-       System Requirements:
-	  	Python 3.x installed on your system.
-	  	Basic understanding of the command line.
+   System Requirements:
+   
+				  	Python 3.x installed on your system.
+   
+				  	Basic understanding of the command line.
    
       Installation:
-	  	Clone or download the project repository from https://github.com/sai460/AI_Final_Project.git
    
-	  	Navigate to the project directory in the terminal.
+				  	Clone or download the project repository from https://github.com/sai460/AI_Final_Project.git
+			   
+				  	Navigate to the project directory in the terminal.
       Install required dependencies using the following command:
 	  •	pip install numpy matplotlib*
 	  or
